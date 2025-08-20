@@ -1,0 +1,2 @@
+# Bitcoinx
+Coin
